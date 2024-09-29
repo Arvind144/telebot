@@ -1,4 +1,5 @@
-step 1 :- python-telegram-bot: command not found
+step 1 :-  pip install python-telegram-bot --upgrade
+
 
 step 2 :- pkg install git
 step 3 :- git clone your link 👍
